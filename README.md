@@ -1,4 +1,4 @@
-AndRowhammer
+**AndRowhammer**
 
 This is attempt to implement the
 [rowhammer test](https://github.com/google/rowhammer-test) can be implemented
